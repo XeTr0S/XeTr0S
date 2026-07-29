@@ -1,89 +1,129 @@
-<img src="./assets/dark-fantasy-banner.png" alt="Bannière dark fantasy de Hassrol" width="100%">
+<div align="center">
 
-<h1 align="center">♱ Hassrol ♱</h1>
+# 『 HASSROL 』
 
-<p align="center">
-  <em>Entre lignes de code et arcanes numériques.</em>
-</p>
+### SHADOW DEVELOPER · PLAYER XeTr0S
 
-<p align="center">
-  <img src="https://img.shields.io/badge/DÉVELOPPEUR-170d26?style=for-the-badge&logoColor=b026ff" alt="Développeur">
-  <img src="https://img.shields.io/badge/DARK_FANTASY-09060f?style=for-the-badge&logoColor=b026ff" alt="Dark Fantasy">
-  <img src="https://komarev.com/ghpvc/?username=XeTr0S&style=for-the-badge&color=6e3cbc&label=ÂMES+DE+PASSAGE" alt="Visites du profil">
-</p>
+![Rang S](https://img.shields.io/badge/RANG-S-00F0FF?style=for-the-badge&labelColor=0D0D1A)
+![Niveau 99](https://img.shields.io/badge/NIVEAU-99-8A2BE2?style=for-the-badge&labelColor=0D0D1A)
+![Statut actif](https://img.shields.io/badge/STATUT-ACTIF-FF0055?style=for-the-badge&labelColor=0D0D1A)
 
----
+</div>
 
-## ☾ Le grimoire
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                  [ NOTIFICATION DU SYSTÈME ]                ║
+╠══════════════════════════════════════════════════════════════╣
+║  Un nouveau visiteur a pénétré dans le domaine du Joueur.   ║
+║                                                              ║
+║  Identification réussie.                                    ║
+║  Accès au profil de HASSROL autorisé.                        ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-Développeur passionné, je façonne des projets dans les profondeurs du Web.
-Chaque nouveau langage est une rune à maîtriser, chaque bug une créature à
-vaincre.
+## ◈ FENÊTRE DE STATUT
 
-- ⚔️ Je forge actuellement **mon prochain projet**
-- 🜏 J'explore de nouvelles technologies et perfectionne mon art
-- 🕯️ J'aime résoudre des énigmes et donner vie à des idées
-- 🦇 Je suis ouvert aux collaborations et aux quêtes intéressantes
-- ✉️ Un message peut m'être envoyé à **ya.hassrol@gmail.com**
+```text
+┌──────────────────────────[ WINDOW STATUS ]──────────────────────────┐
+│                                                                    │
+│  JOUEUR       Hassrol                 CLASSE      Développeur       │
+│  IDENTIFIANT  XeTr0S                  TITRE       Code Hunter       │
+│  NIVEAU       99                      RANG        S                 │
+│                                                                    │
+│  HP  ████████████████████  100 %      MP  ███████████████░  75 %  │
+│                                                                    │
+│  ÉTAT          ● ACTIF                 GUILDE      OPEN SOURCE      │
+└────────────────────────────────────────────────────────────────────┘
+```
 
-## ⚜️ Arsenal technologique
+> **QUÊTE PRINCIPALE** — Transformer des idées en expériences numériques.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-170d26?style=for-the-badge&logo=html5&logoColor=c084fc" alt="HTML5">
-  <img src="https://img.shields.io/badge/PHP-170d26?style=for-the-badge&logo=php&logoColor=c084fc" alt="PHP">
-  <img src="https://img.shields.io/badge/CSS3-170d26?style=for-the-badge&logo=css3&logoColor=c084fc" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-170d26?style=for-the-badge&logo=javascript&logoColor=c084fc" alt="JavaScript">
-  <img src="https://img.shields.io/badge/C-170d26?style=for-the-badge&logo=c&logoColor=c084fc" alt="C">
-  <img src="https://img.shields.io/badge/Python-170d26?style=for-the-badge&logo=python&logoColor=c084fc" alt="Python">
-  <img src="https://img.shields.io/badge/Java-170d26?style=for-the-badge&logo=openjdk&logoColor=c084fc" alt="Java">
-</p>
+- `▸` J'explore de nouvelles technologies et perfectionne mes compétences.
+- `▸` J'aime résoudre des problèmes et donner vie à des projets.
+- `▸` Je suis ouvert aux collaborations et aux nouvelles quêtes.
+- `▸` Contact direct : **ya.hassrol@gmail.com**
 
-## 🗝️ Quêtes accomplies
+## ◈ STATISTIQUES DU JOUEUR
 
-| Projet | Chronique |
-| :--- | :--- |
-| [⚡ Energy](https://github.com/FireDroX/energy) | Une création autour de l'énergie |
-| [♟️ PLAKOTO](https://github.com/XeTr0S/PLAKOTO) | Une adaptation numérique du jeu Plakoto |
-| [🔥 Hu Tao Discord Bot](https://github.com/XeTr0S/HU_TAO_DISCORD_BOT) | Un bot Discord inspiré par Hu Tao |
+| Attribut | Niveau | Spécialité |
+| :--- | :---: | :--- |
+| **INTELLIGENCE** | `S` | Architecture et résolution de problèmes |
+| **CRÉATIVITÉ** | `S` | Interfaces et expériences numériques |
+| **AGILITÉ** | `A+` | Adaptation et apprentissage |
+| **ENDURANCE** | `A` | Débogage et amélioration continue |
+| **PERCEPTION** | `A` | Recherche et attention aux détails |
 
-## 🔮 Échos de GitHub
+## ◈ ARSENAL DES OMBRES
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=XeTr0S&theme=midnight_purple"
-    alt="Statistiques GitHub de XeTr0S"
-    height="165"
-  >
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=XeTr0S&theme=midnight_purple"
-    alt="Langages les plus utilisés par XeTr0S"
-    height="165"
-  >
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XeTr0S&theme=midnight_purple"
-    alt="Activité GitHub de XeTr0S"
-  >
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-0D0D1A?style=for-the-badge&logo=html5&logoColor=00F0FF)
+![PHP](https://img.shields.io/badge/PHP-0D0D1A?style=for-the-badge&logo=php&logoColor=8A2BE2)
+![CSS3](https://img.shields.io/badge/CSS3-0D0D1A?style=for-the-badge&logo=css3&logoColor=00F0FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D0D1A?style=for-the-badge&logo=javascript&logoColor=FF0055)
+![C](https://img.shields.io/badge/C-0D0D1A?style=for-the-badge&logo=c&logoColor=00F0FF)
+![Python](https://img.shields.io/badge/PYTHON-0D0D1A?style=for-the-badge&logo=python&logoColor=8A2BE2)
+![Java](https://img.shields.io/badge/JAVA-0D0D1A?style=for-the-badge&logo=openjdk&logoColor=FF0055)
 
-## 🕸️ Portails
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hassrol-ya-9357a936b/">
-    <img src="https://img.shields.io/badge/LINKEDIN-170d26?style=for-the-badge&logo=linkedin&logoColor=c084fc" alt="LinkedIn">
-  </a>
-  <a href="https://ko-fi.com/seoo">
-    <img src="https://img.shields.io/badge/KO--FI-170d26?style=for-the-badge&logo=ko-fi&logoColor=c084fc" alt="Ko-fi">
-  </a>
-  <a href="mailto:ya.hassrol@gmail.com">
-    <img src="https://img.shields.io/badge/CORBEAU-170d26?style=for-the-badge&logo=gmail&logoColor=c084fc" alt="E-mail">
-  </a>
-</p>
+```text
+[ UNITÉS INVOQUÉES ]
 
----
+HTML / CSS     ███████████████░  Interface
+JavaScript     ██████████████░░  Interactivité
+PHP            █████████████░░░  Back-end
+Python         ████████████░░░░  Automatisation
+Java / C       ███████████░░░░░  Fondamentaux
+```
 
-<p align="center">
-  <em>« Dans l'ombre du code, chaque erreur révèle un nouveau chemin. »</em>
-</p>
+## ◈ REGISTRE DES QUÊTES
+
+- [x] **[Energy](https://github.com/FireDroX/energy)** — Explorer le domaine de l'énergie
+- [x] **[PLAKOTO](https://github.com/XeTr0S/PLAKOTO)** — Donner vie au jeu Plakoto
+- [x] **[Hu Tao Discord Bot](https://github.com/XeTr0S/HU_TAO_DISCORD_BOT)** — Invoquer un bot Discord
+- [ ] **Quête inconnue** — Prochain projet en cours de détection...
+
+## ◈ DONNÉES DU SYSTÈME
+
+<div align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=XeTr0S&theme=midnight_purple"
+  alt="Statistiques GitHub de XeTr0S"
+  height="165"
+>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=XeTr0S&theme=midnight_purple"
+  alt="Langages les plus utilisés par XeTr0S"
+  height="165"
+>
+
+<br>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XeTr0S&theme=midnight_purple"
+  alt="Activité GitHub de XeTr0S"
+>
+
+</div>
+
+## ◈ PORTAILS DE COMMUNICATION
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D0D1A?style=for-the-badge&logo=linkedin&logoColor=00F0FF)](https://www.linkedin.com/in/hassrol-ya-9357a936b/)
+[![Ko-fi](https://img.shields.io/badge/KO--FI-0D0D1A?style=for-the-badge&logo=ko-fi&logoColor=FF0055)](https://ko-fi.com/seoo)
+[![E-mail](https://img.shields.io/badge/E--MAIL-0D0D1A?style=for-the-badge&logo=gmail&logoColor=8A2BE2)](mailto:ya.hassrol@gmail.com)
+
+![Visiteurs](https://komarev.com/ghpvc/?username=XeTr0S&style=for-the-badge&color=8A2BE2&label=JOUEURS+DÉTECTÉS)
+
+</div>
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                    [ COMMANDE ACCEPTÉE ]                    ║
+║                                                              ║
+║                         « ARISE »                            ║
+╚══════════════════════════════════════════════════════════════╝
+```

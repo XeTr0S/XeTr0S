@@ -25,11 +25,11 @@ transformer des idées en projets concrets.
 
 ## 🚀 Mes projets
 
-| Projet               | Description                        | Technologies                                                |
-| -------------------- | ---------------------------------- | ----------------------------------------------------------- |
-| [Energy]             | Projet autour de l'énergie         | Voir le dépôt(https://github.com/FireDroX/energy)           |
-| [PLAKOTO]            | Projet PLAKOTO                     | Voir le dépôt(https://github.com/XeTr0S/PLAKOTO)            |
-| [Hu Tao Discord Bot] | Bot Discord sur le thème de Hu Tao | Voir le dépôt(https://github.com/XeTr0S/HU_TAO_DISCORD_BOT) |
+| Projet                | Description                        | Technologies                                                  |
+| --------------------- | ---------------------------------- | ------------------------------------------------------------- |
+| Monster Energy Review | Projet autour de l'énergie         | [Voir le dépôt](https://github.com/FireDroX/energy)           |
+| PLAKOTO               | Projet PLAKOTO                     | [Voir le dépôt](https://github.com/XeTr0S/PLAKOTO)            |
+| Hu Tao Discord Bot    | Bot Discord sur le thème de Hu Tao | [Voir le dépôt](https://github.com/XeTr0S/HU_TAO_DISCORD_BOT) |
 
 ## 📊 Mes statistiques GitHub
 

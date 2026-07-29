@@ -70,8 +70,8 @@
   </tr>
   <tr>
     <td><code>A</code></td>
-    <td><a href="https://github.com/FireDroX/energy"><strong>Energy</strong></a></td>
-    <td>Projet autour de l'énergie</td>
+    <td><a href="https://github.com/FireDroX/energy"><strong>Monster Energy Review</strong></a></td>
+    <td>Projet autour du dev web</td>
     <td>✅ TERMINÉE</td>
   </tr>
   <tr>

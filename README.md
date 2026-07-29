@@ -35,12 +35,12 @@ transformer des idées en projets concrets.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=XeTr0S&show_icons=true&theme=transparent&hide_border=true&locale=fr"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=XeTr0S&theme=github_dark"
     alt="Statistiques GitHub"
     height="165"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=XeTr0S&layout=compact&theme=transparent&hide_border=true&locale=fr"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=XeTr0S&theme=github_dark"
     alt="Langages les plus utilisés"
     height="165"
   />

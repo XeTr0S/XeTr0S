@@ -11,29 +11,9 @@
 
 ## `01 >> PROFIL`
 
-<table>
-  <tr>
-    <td><strong>IDENTITÉ</strong></td>
-    <td>Hassrol</td>
-    <td><strong>CLASSE</strong></td>
-    <td>Développeur</td>
-  </tr>
-  <tr>
-    <td><strong>ALIAS</strong></td>
-    <td>XeTr0S</td>
-    <td><strong>SPÉCIALITÉ</strong></td>
-    <td>Web & programmation</td>
-  </tr>
-  <tr>
-    <td><strong>RANG</strong></td>
-    <td><code>S</code></td>
-    <td><strong>STATUT</strong></td>
-    <td>🟣 Disponible</td>
-  </tr>
-</table>
-
-> Développeur passionné, je transforme des idées en expériences numériques et
-> j'améliore continuellement mon arsenal technique.
+<div align="center">
+  <img src="./assets/profile-panel.svg" width="100%" alt="Profil du joueur Hassrol">
+</div>
 
 <img src="./assets/system-divider.svg" width="100%" alt="">
 

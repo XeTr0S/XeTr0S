@@ -39,12 +39,9 @@
 
 ## `02 >> ATTRIBUTS`
 
-| Attribut           | Progression  | Domaine                       |
-| :----------------- | :----------- | :---------------------------- |
-| `INT` Intelligence | `█████████░` | Résolution de problèmes       |
-| `DEX` Agilité      | `████████░░` | Adaptation et apprentissage   |
-| `PER` Perception   | `████████░░` | Débogage et précision         |
-| `CRE` Créativité   | `█████████░` | Interfaces et nouvelles idées |
+<div align="center">
+  <img src="./assets/attributes-panel.svg" width="100%" alt="Attributs du joueur Hassrol">
+</div>
 
 ### Arsenal technique
 
@@ -137,7 +134,7 @@
 SYSTEM MESSAGE
 Your limits exist only to be surpassed.
 
-              A R I S E
+        A R I S E
 ```
 
 </div>

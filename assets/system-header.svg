@@ -37,10 +37,24 @@
   <g transform="translate(886 66)" fill="none">
     <circle cx="118" cy="114" r="91" stroke="#8a2be2" stroke-opacity=".2"/>
     <circle cx="118" cy="114" r="72" stroke="#00f0ff" stroke-opacity=".34" stroke-dasharray="4 9"/>
-    <path d="M118 37l22 45 49 7-36 35 9 49-44-23-44 23 9-49-36-35 49-7z"
-          stroke="url(#neon)" stroke-width="2" filter="url(#glow)"/>
-    <path d="M118 68v92M72 114h92" stroke="#00f0ff" stroke-opacity=".35"/>
-    <circle cx="118" cy="114" r="10" fill="#00f0ff" fill-opacity=".18" stroke="#00f0ff"/>
+    <path
+      d="M119 31c8 27 39 42 41 74 12-12 17-26 16-39 22 25 29 53 18 82-11 30-40 49-76 49s-67-23-75-54c-9-35 10-65 39-88-4 22 5 37 17 46-1-26 6-51 20-70z"
+      fill="url(#neon)"
+      fill-opacity=".09"
+      stroke="url(#neon)"
+      stroke-width="2"
+      filter="url(#glow)"
+    />
+    <path
+      d="M118 91c6 21 27 33 23 55-2 15-12 25-24 29-19-6-29-19-26-35 3-16 17-24 27-49z"
+      fill="url(#neon)"
+      fill-opacity=".3"
+      stroke="#00f0ff"
+      stroke-width="1.5"
+      filter="url(#glow)"
+    />
+    <path d="M82 43l4 10 10 4-10 4-4 10-4-10-10-4 10-4z" fill="#00f0ff" fill-opacity=".7"/>
+    <path d="M177 45l3 7 7 3-7 3-3 7-3-7-7-3 7-3z" fill="#ff0055" fill-opacity=".75"/>
   </g>
 
   <g font-family="'Segoe UI',Arial,sans-serif">

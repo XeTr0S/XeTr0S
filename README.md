@@ -12,7 +12,7 @@
 ## `01 >> PROFIL`
 
 <div align="center">
-  <img src="./assets/profile-panel.svg" width="100%" alt="Profil du joueur Hassrol">
+  <img src="./assets/profile-panels.svg" width="100%" alt="Profil du joueur Hassrol">
 </div>
 
 <img src="./assets/system-divider.svg" width="100%" alt="">

@@ -90,11 +90,6 @@
 
 <br>
 
-```text
-SYSTEM MESSAGE
-Your limits exist only to be surpassed.
-
-  A R I S E
-```
+<img src="./assets/ex.gif" width="500" alt="Animation Arise">
 
 </div>

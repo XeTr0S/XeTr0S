@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/system-header.svg" width="100%" alt="Hassrol — Shadow Developer">
+  <img src="./assets/system-headers.svg" width="100%" alt="Hassrol — Shadow Developer">
 </div>
 
 <br>

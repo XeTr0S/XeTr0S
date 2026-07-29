@@ -9,7 +9,7 @@
             Bienvenue dans l'interface du joueur XeTr0S.
 ```
 
-## `01 // PROFIL`
+## `01 >> PROFIL`
 
 <table>
   <tr>
@@ -37,14 +37,14 @@
 
 <img src="./assets/system-divider.svg" width="100%" alt="">
 
-## `02 // ATTRIBUTS`
+## `02 >> ATTRIBUTS`
 
-| Attribut | Progression | Domaine |
-| :--- | :--- | :--- |
-| `INT` Intelligence | `█████████░` | Résolution de problèmes |
-| `DEX` Agilité | `████████░░` | Adaptation et apprentissage |
-| `PER` Perception | `████████░░` | Débogage et précision |
-| `CRE` Créativité | `█████████░` | Interfaces et nouvelles idées |
+| Attribut           | Progression  | Domaine                       |
+| :----------------- | :----------- | :---------------------------- |
+| `INT` Intelligence | `█████████░` | Résolution de problèmes       |
+| `DEX` Agilité      | `████████░░` | Adaptation et apprentissage   |
+| `PER` Perception   | `████████░░` | Débogage et précision         |
+| `CRE` Créativité   | `█████████░` | Interfaces et nouvelles idées |
 
 ### Arsenal technique
 
@@ -62,7 +62,7 @@
 
 <img src="./assets/system-divider.svg" width="100%" alt="">
 
-## `03 // REGISTRE DES QUÊTES`
+## `03 >> REGISTRE DES QUÊTES`
 
 <table>
   <tr>
@@ -99,7 +99,7 @@
 
 <img src="./assets/system-divider.svg" width="100%" alt="">
 
-## `04 // ANALYSE DU JOUEUR`
+## `04 >> ANALYSE DU JOUEUR`
 
 <div align="center">
   <img
@@ -121,7 +121,7 @@
 
 <img src="./assets/system-divider.svg" width="100%" alt="">
 
-## `05 // CANAUX OUVERTS`
+## `05 >> CANAUX OUVERTS`
 
 <div align="center">
 
@@ -137,7 +137,7 @@
 SYSTEM MESSAGE
 Your limits exist only to be surpassed.
 
-                        A R I S E
+              A R I S E
 ```
 
 </div>

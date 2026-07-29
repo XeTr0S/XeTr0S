@@ -1,59 +1,89 @@
-# Salut, moi c'est Hassrol 👋
+<img src="./assets/dark-fantasy-banner.png" alt="Bannière dark fantasy de Hassrol" width="100%">
 
-Bienvenue sur mon profil GitHub !
+<h1 align="center">♱ Hassrol ♱</h1>
 
-Je suis **développeur passionné**, toujours curieux d'apprendre, de créer et de
-transformer des idées en projets concrets.
+<p align="center">
+  <em>Entre lignes de code et arcanes numériques.</em>
+</p>
 
-## 👨‍💻 À propos de moi
+<p align="center">
+  <img src="https://img.shields.io/badge/DÉVELOPPEUR-170d26?style=for-the-badge&logoColor=b026ff" alt="Développeur">
+  <img src="https://img.shields.io/badge/DARK_FANTASY-09060f?style=for-the-badge&logoColor=b026ff" alt="Dark Fantasy">
+  <img src="https://komarev.com/ghpvc/?username=XeTr0S&style=for-the-badge&color=6e3cbc&label=ÂMES+DE+PASSAGE" alt="Visites du profil">
+</p>
 
-- 🔭 Je travaille actuellement sur **mon prochain projet**
-- 🌱 J'apprends et j'améliore mes compétences en **développement**
-- 💡 J'aime résoudre des problèmes et découvrir de nouvelles technologies
-- 🤝 Je suis ouvert aux collaborations et aux projets intéressants
-- 📫 Me contacter : **ya.hassrol@gmail.com**
+---
 
-## 🛠️ Technologies et outils
+## ☾ Le grimoire
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+Développeur passionné, je façonne des projets dans les profondeurs du Web.
+Chaque nouveau langage est une rune à maîtriser, chaque bug une créature à
+vaincre.
 
-## 🚀 Mes projets
+- ⚔️ Je forge actuellement **mon prochain projet**
+- 🜏 J'explore de nouvelles technologies et perfectionne mon art
+- 🕯️ J'aime résoudre des énigmes et donner vie à des idées
+- 🦇 Je suis ouvert aux collaborations et aux quêtes intéressantes
+- ✉️ Un message peut m'être envoyé à **ya.hassrol@gmail.com**
 
-| Projet                | Description                        | Technologies                                                  |
-| --------------------- | ---------------------------------- | ------------------------------------------------------------- |
-| Monster Energy Review | Projet autour de l'énergie         | [Voir le dépôt](https://github.com/FireDroX/energy)           |
-| PLAKOTO               | Projet PLAKOTO                     | [Voir le dépôt](https://github.com/XeTr0S/PLAKOTO)            |
-| Hu Tao Discord Bot    | Bot Discord sur le thème de Hu Tao | [Voir le dépôt](https://github.com/XeTr0S/HU_TAO_DISCORD_BOT) |
+## ⚜️ Arsenal technologique
 
-## 📊 Mes statistiques GitHub
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-170d26?style=for-the-badge&logo=html5&logoColor=c084fc" alt="HTML5">
+  <img src="https://img.shields.io/badge/PHP-170d26?style=for-the-badge&logo=php&logoColor=c084fc" alt="PHP">
+  <img src="https://img.shields.io/badge/CSS3-170d26?style=for-the-badge&logo=css3&logoColor=c084fc" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-170d26?style=for-the-badge&logo=javascript&logoColor=c084fc" alt="JavaScript">
+  <img src="https://img.shields.io/badge/C-170d26?style=for-the-badge&logo=c&logoColor=c084fc" alt="C">
+  <img src="https://img.shields.io/badge/Python-170d26?style=for-the-badge&logo=python&logoColor=c084fc" alt="Python">
+  <img src="https://img.shields.io/badge/Java-170d26?style=for-the-badge&logo=openjdk&logoColor=c084fc" alt="Java">
+</p>
+
+## 🗝️ Quêtes accomplies
+
+| Projet | Chronique |
+| :--- | :--- |
+| [⚡ Energy](https://github.com/FireDroX/energy) | Une création autour de l'énergie |
+| [♟️ PLAKOTO](https://github.com/XeTr0S/PLAKOTO) | Une adaptation numérique du jeu Plakoto |
+| [🔥 Hu Tao Discord Bot](https://github.com/XeTr0S/HU_TAO_DISCORD_BOT) | Un bot Discord inspiré par Hu Tao |
+
+## 🔮 Échos de GitHub
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=XeTr0S&theme=github_dark"
-    alt="Statistiques GitHub"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=XeTr0S&theme=midnight_purple"
+    alt="Statistiques GitHub de XeTr0S"
     height="165"
-  />
+  >
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=XeTr0S&theme=github_dark"
-    alt="Langages les plus utilisés"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=XeTr0S&theme=midnight_purple"
+    alt="Langages les plus utilisés par XeTr0S"
     height="165"
-  />
+  >
 </p>
 
-## 🌐 Me retrouver
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XeTr0S&theme=midnight_purple"
+    alt="Activité GitHub de XeTr0S"
+  >
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassrol-ya-9357a936b/)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/seoo)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ya.hassrol@gmail.com)
+## 🕸️ Portails
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hassrol-ya-9357a936b/">
+    <img src="https://img.shields.io/badge/LINKEDIN-170d26?style=for-the-badge&logo=linkedin&logoColor=c084fc" alt="LinkedIn">
+  </a>
+  <a href="https://ko-fi.com/seoo">
+    <img src="https://img.shields.io/badge/KO--FI-170d26?style=for-the-badge&logo=ko-fi&logoColor=c084fc" alt="Ko-fi">
+  </a>
+  <a href="mailto:ya.hassrol@gmail.com">
+    <img src="https://img.shields.io/badge/CORBEAU-170d26?style=for-the-badge&logo=gmail&logoColor=c084fc" alt="E-mail">
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  Merci pour votre visite ! ⭐
+  <em>« Dans l'ombre du code, chaque erreur révèle un nouveau chemin. »</em>
 </p>

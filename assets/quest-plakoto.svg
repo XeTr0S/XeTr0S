@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="570" height="160" viewBox="0 0 570 160">
+  <defs>
+    <linearGradient id="b"><stop stop-color="#0b0915"/><stop offset="1" stop-color="#160d22"/></linearGradient>
+    <linearGradient id="n"><stop stop-color="#8a2be2"/><stop offset="1" stop-color="#00f0ff"/></linearGradient>
+    <filter id="g"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect x="1" y="1" width="568" height="158" rx="11" fill="url(#b)" stroke="#35274a"/>
+  <path d="M1 1h130l11 8h286l11-8h130M1 159h185l9-7h180l9 7h185" fill="none" stroke="url(#n)" stroke-opacity=".8"/>
+  <path d="M22 23h4v-4h34v4h4v34h-4v4H26v-4h-4z" fill="#8a2be2" fill-opacity=".12" stroke="#8a2be2"/>
+  <text x="43" y="48" fill="#c084fc" font-family="monospace" font-size="22" font-weight="700" text-anchor="middle">A</text>
+  <g font-family="'Segoe UI',Arial,sans-serif">
+    <text x="84" y="25" fill="#75658b" font-size="10" letter-spacing="2">QUEST // 002</text>
+    <text x="84" y="58" fill="#f2f6ff" font-size="21" font-weight="700">PLAKOTO</text>
+    <text x="24" y="103" fill="#aaa0b9" font-size="14">Adaptation numérique du jeu Plakoto</text>
+    <circle cx="444" cy="125" r="4" fill="#b55cff" filter="url(#g)"/>
+    <text x="458" y="130" fill="#d4a5ff" font-size="12" font-weight="700" letter-spacing="2">COMPLETED</text>
+  </g>
+  <path d="M24 124h300" stroke="#352946"/>
+</svg>

@@ -41,38 +41,18 @@
 
 ## `03 >> REGISTRE DES QUÊTES`
 
-<table>
-  <tr>
-    <th>RANG</th>
-    <th>QUÊTE</th>
-    <th>OBJECTIF</th>
-    <th>ÉTAT</th>
-  </tr>
-  <tr>
-    <td><code>A</code></td>
-    <td><a href="https://github.com/FireDroX/energy"><strong>Monster Energy Review</strong></a></td>
-    <td>Projet autour du dev web</td>
-    <td>✅ TERMINÉE</td>
-  </tr>
-  <tr>
-    <td><code>A</code></td>
-    <td><a href="https://github.com/XeTr0S/PLAKOTO"><strong>PLAKOTO</strong></a></td>
-    <td>Adaptation numérique du Plakoto</td>
-    <td>✅ TERMINÉE</td>
-  </tr>
-  <tr>
-    <td><code>S</code></td>
-    <td><a href="https://github.com/XeTr0S/HU_TAO_DISCORD_BOT"><strong>Hu Tao Bot</strong></a></td>
-    <td>Développer un bot Discord</td>
-    <td>✅ TERMINÉE</td>
-  </tr>
-  <tr>
-    <td><code>?</code></td>
-    <td><strong>Prochaine invocation</strong></td>
-    <td>Objectif classifié</td>
-    <td>◉ EN COURS</td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/FireDroX/energy">
+    <img src="./assets/quest-energy.svg" width="49%" alt="Monster Energy Review">
+  </a>
+  <a href="https://github.com/XeTr0S/PLAKOTO">
+    <img src="./assets/quest-plakoto.svg" width="49%" alt="PLAKOTO">
+  </a>
+  <a href="https://github.com/XeTr0S/HU_TAO_DISCORD_BOT">
+    <img src="./assets/quest-hutao.svg" width="49%" alt="Hu Tao Discord Bot">
+  </a>
+  <img src="./assets/quest-unknown.svg" width="49%" alt="Prochaine invocation">
+</div>
 
 <img src="./assets/system-divider.svg" width="100%" alt="">
 

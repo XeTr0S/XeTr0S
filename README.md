@@ -134,7 +134,7 @@
 SYSTEM MESSAGE
 Your limits exist only to be surpassed.
 
-        A R I S E
+    A R I S E
 ```
 
 </div>
